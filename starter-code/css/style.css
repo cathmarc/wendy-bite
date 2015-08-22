@@ -1,0 +1,32 @@
+ul {
+    list-style-type:disc;
+}
+body {
+    background-color: dimgray;  
+}
+h1 {
+    color: white;
+    font: helvetica;
+    font-size: 200%
+}
+p {
+    color: white;
+    font: helvetica;
+}
+ h2 {
+     color: darkgrey
+ }
+li {
+    color: white
+}
+span {
+    color: white;
+    font-weight: 400
+}
+        
+    
+    
+    
+
+        
+        
